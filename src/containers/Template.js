@@ -22,7 +22,7 @@ class Template extends Component {
             <p>Template.js - header</p>
           </header>
           <main>
-            <h3>main - </h3>
+            <h3>main -- </h3>
             <hr></hr>
             {this.props.children}
           </main>
